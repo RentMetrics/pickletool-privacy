@@ -165,6 +165,52 @@ PickleTool is not intended for children under 13 years of age. We do not knowing
 
 The App may contain links to third-party websites or services (e.g., DUPR.gg for official ratings). We are not responsible for the privacy practices of these third parties. Please review their privacy policies before providing any information.
 
+## SMS/Text Messaging Program
+
+PickleTool offers an optional SMS/text messaging program to enhance your experience with:
+- Match notifications and reminders
+- Event updates and confirmations
+- Challenge invitations
+- Important account notifications
+- Game confirmations and updates
+
+### SMS Opt-In and Consent
+- You must provide explicit consent to receive SMS messages from PickleTool
+- By opting in, you agree to receive recurring automated promotional and personalized marketing text messages (e.g., cart reminders) from PickleTool
+- Consent is not a condition of purchase
+- Message frequency varies based on your activity and preferences
+- Message and data rates may apply
+
+### SMS Opt-Out
+You can opt out of SMS messages at any time by:
+- Texting STOP to any message from PickleTool
+- Updating your notification preferences in the App settings
+- Contacting support@pickletool.com
+
+After you send STOP, you will receive one final message confirming your opt-out.
+
+### SMS Help
+For help with SMS messages, text HELP to any message from PickleTool or contact support@pickletool.com.
+
+### Mobile Information Privacy
+**We do NOT share your mobile phone number or SMS opt-in data with third parties or affiliates for marketing or promotional purposes.** We may share this information only with:
+- Service providers who help us deliver SMS messages (such as Twilio)
+- Subcontractors providing customer support services
+- As required by law or legal process
+
+Your mobile information is protected under the same security measures described in this Privacy Policy.
+
+### SMS Message Content
+Messages may include:
+- Match confirmations and reminders
+- Event notifications
+- Challenge invitations
+- Account security alerts
+- Customer service responses
+
+### Carriers Supported
+PickleTool SMS is available on participating carriers. Please check with your mobile carrier for availability.
+
 ## Push Notifications
 
 We may send push notifications for:
