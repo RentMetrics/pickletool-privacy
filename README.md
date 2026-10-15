@@ -15,4 +15,4 @@ PickleTool is a mobile app that connects pickleball players, helps you find cour
 
 ---
 
-Last Updated: December 12, 2025
+Last Updated: October 15, 2026

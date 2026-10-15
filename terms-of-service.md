@@ -305,7 +305,7 @@ If you have questions about these Terms of Service, please contact us:
 **SMS Support**: Text HELP to our SMS number
 **Website**: https://pickletool.com
 **Mail**: House of Holder, LLC (PickleTool)
-         [Your Business Address]
+         30 E Broadway, Suite 203 #1053, Salt Lake City, UT 84111
 
 ---
 

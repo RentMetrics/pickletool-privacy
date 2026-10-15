@@ -275,7 +275,7 @@ If you have questions or concerns about this Privacy Policy or our data practice
 **Email**: support@pickletool.com
 **Website**: https://pickletool.com
 **Mail**: House of Holder, LLC (PickleTool)
-         [Your Business Address]
+         30 E Broadway, Suite 203 #1053, Salt Lake City, UT 84111
 
 For privacy-specific inquiries: privacy@pickletool.com
 
