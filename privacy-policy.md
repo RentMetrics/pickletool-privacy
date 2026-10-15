@@ -1,6 +1,6 @@
 # PickleTool Privacy Policy
 
-**Last Updated: December 12, 2025**
+**Last Updated: October 15, 2026**
 
 ## Introduction
 
@@ -91,6 +91,19 @@ We may disclose your information if required by law or if we believe disclosure 
 - Prevent fraud or security issues
 - Protect user safety
 
+### De-identified Information
+We share de-identified information as described in "De-identified Data and AI" below.
+
+## De-identified Data and AI
+
+We create de-identified and aggregated information from the data we collect, so that it can no longer reasonably be linked to you, your household or your device. We maintain and use it only in de-identified form, will not attempt to re-identify it, and require anyone we share it with to do the same. We may use and share de-identified information for any lawful purpose, including research, benchmarks, reports and data products for third parties.
+
+We may also use your information internally to develop, train and improve our analytics and AI features.
+
+**Your choices.** You can opt out of having your information used to train AI features at any time by emailing privacy@pickletool.com or from your account settings where available. Opting out does not affect de-identified information already created.
+
+**No sale of personal information.** We do not sell your personal information or share it for cross-context behavioral advertising. If that ever changes, we will update this policy and give you the right to opt out before it applies to you.
+
 ## Your Location Data
 
 **Why We Collect Location:**
@@ -127,7 +140,7 @@ However, no method of transmission over the internet is 100% secure. While we st
 We retain your personal information for as long as necessary to provide services and comply with legal obligations:
 
 - **Active Accounts**: Data retained while your account is active
-- **Deleted Accounts**: Data deleted within 30 days of account deletion
+- **Deleted Accounts**: Data deleted within 30 days of account deletion (this does not affect de-identified information already created, which no longer identifies you)
 - **Legal Requirements**: Some data may be retained longer for legal compliance
 
 ## Your Privacy Rights
@@ -150,6 +163,7 @@ Depending on your location, you may have these rights:
 - Disable location services
 - Turn off push notifications
 - Opt out of marketing communications
+- Opt out of having your information used to train AI features
 
 ### Data Restrictions
 - Request restrictions on processing your data
@@ -241,7 +255,7 @@ If you are a California resident, you have additional rights under the Californi
 
 - **Right to Know**: What personal information we collect and how we use it
 - **Right to Delete**: Request deletion of your personal information
-- **Right to Opt-Out**: Opt out of sale of personal information (we do not sell your data)
+- **Right to Opt-Out**: Opt out of sale or sharing of personal information (we do not sell or share your personal information)
 - **Non-Discrimination**: We will not discriminate against you for exercising your rights
 
 To exercise these rights, contact us at support@pickletool.com.
@@ -271,10 +285,10 @@ For privacy-specific inquiries: privacy@pickletool.com
 
 ✅ **What We Collect**: Profile info, location, game history, messages
 ✅ **Why We Collect It**: To match players, find courts, track games
-✅ **Who We Share With**: Service providers only (Clerk, Convex, Google, Stripe)
+✅ **Who We Share With**: Service providers only (Clerk, Convex, Google, Stripe); de-identified information as described in "De-identified Data and AI"
 ✅ **Your Control**: Delete account anytime, disable location, opt out of notifications
 ✅ **Data Security**: Encrypted, secure storage, limited access
-✅ **We DO NOT**: Sell your data, track you without permission, share with advertisers
+✅ **We DO NOT**: Sell your personal information, track you without permission, share with advertisers
 
 ---
 

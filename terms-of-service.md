@@ -1,6 +1,6 @@
 # PickleTool Terms of Service
 
-**Last Updated: December 23, 2025**
+**Last Updated: October 15, 2026**
 
 ## Agreement to Terms
 
@@ -130,12 +130,20 @@ We do not share your mobile phone number or SMS opt-in data with third parties o
 
 ### Content Ownership
 - You retain ownership of content you post
-- By posting content, you grant PickleTool a worldwide, non-exclusive, royalty-free license to use, display, and distribute your content in connection with the App
+- By posting content, you grant PickleTool a worldwide, non-exclusive, royalty-free license to use, display, and distribute your content in connection with the App, and the licenses described in "How We Use Your Data, Including for AI" below
 
 ### Content Moderation
 - We reserve the right to remove content that violates these Terms
 - We may suspend or terminate accounts that repeatedly violate content policies
 - We are not responsible for user-generated content
+
+## How We Use Your Data, Including for AI
+
+**Your Content.** You keep ownership of the information and files you add to PickleTool ("Your Content"). You give House of Holder, LLC a non-exclusive, worldwide, royalty-free license to host, process and display Your Content to run, secure and improve PickleTool for you.
+
+**De-identified Data and AI.** House of Holder, LLC may create de-identified and aggregated data from Your Content and your use of PickleTool, combined with data from other users, so that it can no longer reasonably be linked to you or your household ("De-identified Data"). We may use De-identified Data, and may use Your Content internally, to develop, train and improve analytics, benchmarks and artificial-intelligence features. House of Holder, LLC owns De-identified Data and may use and share it for any lawful purpose, including in reports and data products for third parties. We will not try to re-identify De-identified Data, and we contractually prohibit recipients from doing so.
+
+**What We Don't Do.** We do not sell your personal information, and we do not share information that identifies you with third parties for their own marketing. Our Privacy Policy explains your rights and choices, including how to opt out of having Your Content used to train AI features.
 
 ## Match Results and Statistics
 
@@ -174,7 +182,7 @@ We do not share your mobile phone number or SMS opt-in data with third parties o
 ## Intellectual Property
 
 ### PickleTool Ownership
-All content, features, and functionality of the App are owned by PickleTool and protected by copyright, trademark, and other intellectual property laws.
+All content, features, and functionality of the App (other than Your Content) are owned by PickleTool and protected by copyright, trademark, and other intellectual property laws.
 
 ### Trademarks
 PickleTool, the PickleTool logo, and other marks are trademarks of House of Holder, LLC. You may not use our trademarks without prior written permission.
